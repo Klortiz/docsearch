@@ -1,5 +1,3 @@
-written_2/travel_guides
-written_2/travel_guides/berlitz1
 written_2/travel_guides/berlitz1/HandRHawaii.txt
 written_2/travel_guides/berlitz1/HandRHongKong.txt
 written_2/travel_guides/berlitz1/HandRIbiza.txt
@@ -101,7 +99,6 @@ written_2/travel_guides/berlitz1/WhereToMadeira.txt
 written_2/travel_guides/berlitz1/WhereToMadrid.txt
 written_2/travel_guides/berlitz1/WhereToMalaysia.txt
 written_2/travel_guides/berlitz1/WhereToMallorca.txt
-written_2/travel_guides/berlitz2
 written_2/travel_guides/berlitz2/Algarve-History.txt
 written_2/travel_guides/berlitz2/Algarve-Intro.txt
 written_2/travel_guides/berlitz2/Algarve-WhatToDo.txt
